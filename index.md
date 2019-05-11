@@ -8,3 +8,4 @@ The objective of this project was to identify partial discharges in medium volta
 [GitHub Repository](https://github.com/kykar/water_pump_condition)
 
 This project is a work in progress. I will finish and link a report on my methodology and results soon.
+
