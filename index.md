@@ -1,5 +1,5 @@
 ## Predicting Faults in Power Transmission Lines
-[iPython Notebook on GitHub]()
+[iPython Notebook on Kaggle](https://www.kaggle.com/kmekar/vsb-fault-detection-dwt-denoising?scriptVersionId=14059965)
 
 The objective of this project was to identify partial discharges in medium voltage overhead power transmission lines. Partial discharges result from damage to the line that is not yet severe enough to cause a power outage, though left unrepaired it will lead to a power outage or start a fire. This was a [Kaggle competition](https://www.kaggle.com/c/vsb-power-line-fault-detection) I participated in. 
 
